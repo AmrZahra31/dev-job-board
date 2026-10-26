@@ -13,7 +13,7 @@ pnpm dev
 # or
 bun dev
 bun dev
-
+bun dev
 bun dev
 
 ```
